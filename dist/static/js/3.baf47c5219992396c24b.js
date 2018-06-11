@@ -1,0 +1,2 @@
+webpackJsonp([3],{KXJG:function(t,e){},Sj13:function(t,e,s){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var n={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"m-subscribe"},[e("div",{staticClass:"public"},[this._v("公众号有待开发")])])}]};var i=s("VU/8")({},n,!1,function(t){s("KXJG")},null,null);e.default=i.exports}});
+//# sourceMappingURL=3.baf47c5219992396c24b.js.map
