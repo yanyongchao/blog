@@ -1,0 +1,49 @@
+/* menu */
+.ivu-menu-vertical.ivu-menu-light:after {
+  width: 0;
+}
+
+.pull--right {
+  float: right !important;
+}
+.pull--left {
+  float: left !important;
+}
+
+.hide {
+  display: none !important;
+}
+.show {
+  display: block !important;
+}
+.invisible {
+  visibility: hidden;
+}
+
+.affix {
+  position: fixed;
+}
+.clearfix:after {
+  content: '\20';
+  display: block;
+  height: 0;
+  clear: both;
+}
+.clearfix {
+  *zoom: 1;
+}
+
+i {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.markdown-body h2 {
+  border-bottom: 1px solid #b5b5b5;
+}
+a:hover {
+  border-bottom: 1px solid #b5b5b5;
+}
